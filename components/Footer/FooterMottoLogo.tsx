@@ -6,7 +6,7 @@ const FooterMottoLogo = () => {
   const mottoText = `pt-2 leading-4  font-rubik  font-normal text-[clamp(8px,1.4vw,16px)]`;
   return (
     <div className="  w-[28%] flex-cos-s">
-      <div className=" w-[50%] ">
+      <div className=" w-[60%] ">
         <div className=" flex-start pb-2">
           <MeltonLogo />
         </div>

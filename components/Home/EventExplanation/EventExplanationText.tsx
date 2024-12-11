@@ -2,7 +2,7 @@ import React from "react";
 
 const EventExplanationText = () => {
   return (
-    <div className=" w-[57%] h-full flex-col items-center py-10">
+    <div className=" sm-md:w-[57%] w-full  h-full flex-col items-center py-10">
       <div>
         <h1 className="  font-medium  font-palanquin_dark   leading-[3.5rem] tracking-wider text-[clamp(20px,5.6vw,58px)]">
           30 Nov 2024

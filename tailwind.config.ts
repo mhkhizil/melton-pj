@@ -68,7 +68,8 @@ const config = {
         rubik: ["var(--rubik)", ...fontFamily.sans],
       },
       screens: {
-        "md-lg": "900px",
+        "sm-md": "700px",
+        "semi-lg":"1250px"
       },
       boxShadow:{
         'footer': '4px 4px 14px rgba(0, 0, 0, 0.25)',

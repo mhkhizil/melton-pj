@@ -5,7 +5,7 @@ import WelcomeTextComp from "./WelcomeTextComp";
 
 const WelcomeVendor = () => {
   return (
-    <div className=" rounded-xl w-full flex justify-normal items-center h-[22.8rem] my-36">
+    <div className="  rounded-xl w-full flex justify-normal items-center h-[25rem] my-36">
       <MarketImageComp />
       <WelcomeTextComp />
     </div>
