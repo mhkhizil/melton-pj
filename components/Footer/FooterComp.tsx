@@ -7,7 +7,7 @@ import FooterContactUs from "./FooterContactUs";
 
 const FooterComp = () => {
   return (
-    <div className=" container-footer">
+    <div className=" container-footer mb-14">
       <div className="py-16 flex-between w-[90%]">
         <FooterMottoLogo />
         <NavItems isHorizontal={false} />
